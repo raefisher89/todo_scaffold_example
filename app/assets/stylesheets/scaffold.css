@@ -1,7 +1,10 @@
 body {
-  background-color: #fff;
-  color: #333;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ae/82/db/ae82db95914ca888dc3369193415dec6.jpg);
+
+  background-size: cover;
 }
+
+
 
 body, p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
@@ -81,4 +84,12 @@ div.actions {
 
 label {
   display: block;
+}
+
+.container {
+  background-color: white;
+  ta
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
 }
